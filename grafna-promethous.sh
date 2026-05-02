@@ -217,7 +217,7 @@ EOF
 sudo systemctl restart prometheus
 
 # Final system update
-sudo apt update && sudo apt upgrade -y
+
 
 
 echo "=============================="
